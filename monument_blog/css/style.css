@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway:400,600');
+
+/* ----------------------------------------
+Base Styles
+------------------------------------------- */
+body {
+	text-align: center;
+}
+
+/* Fix for responsive images */
+.four {
+	max-width: 100%;
+}
+
+.three {
+
+	padding-top: 50px;
+	
+
+
+}
+
+ul {
+
+	font-family: "Raleway", sans-serif;
+	font-size: 15px;
+	color: #7B98AA;
+	text-decoration: none;
+	text-align: left;
+	line-height: 260%;
+	padding-bottom: 50px;
+
+}
+
+nav a {
+	font-family: "Raleway", sans-serif;
+	font-size: 16px;
+	color: #7B98AA;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+	padding-left: 100px;
+	padding-top: 25px;
+	padding-bottom: 50px;
+
+
+}
+
+h1 a {
+	font-family: "Raleway", sans-serif;
+	font-size: 37px;
+	color: #44545E;
+	text-decoration: none;
+
+
+}
+
+h3 {
+	font-family: "Raleway", sans-serif;
+	font-size: 18px;
+	color: #44545E;
+	text-transform: uppercase;
+	text-align: left;
+
+}
+
+h2 {
+	font-family: "Raleway", sans-serif;
+	font-size: 23px;
+	color: #44545E;
+	text-align: left;
+	padding-bottom: 50px;
+
+}
+
+.one {
+	font-family: "Lato", sans-serif;
+	font-size: 15px;
+	color: #44545E;
+	text-align: left;
+
+}
+
+.two {
+	font-family: "Raleway", sans-serif;
+	font-size: 18px;
+	color: #44545E;
+	text-align: left;
+	padding-top: 50px;
+
+
+}
+
+footer a {
+
+	font-family: "Raleway", sans-serif;
+	font-size: 15px;
+	color: #7B98AA;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+	padding-left: 100px;
+	padding-top: 50px;
+	padding: 25px;
+	background-color: #CDF3F6;
+
+
+}
+
+footer  {
+
+	font-family: "Lato", sans-serif;
+	font-size: 15px;
+	color: #7B98AA;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+	padding-left: 100px;
+	padding-top: 25px;
+	background-color: #CDF3F6;
+
+}
